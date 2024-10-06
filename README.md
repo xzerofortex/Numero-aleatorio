@@ -1,0 +1,8 @@
+-
+- es mi primera publicacion
+-
+- adivina el numero que este pensando el bot
+- el usuario pone un numero del (1,10)
+- al finalizar pone la cantidad de intentos que tomo y el numero que fue
+- 
+- 
